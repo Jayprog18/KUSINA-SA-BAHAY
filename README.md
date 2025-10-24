@@ -3,10 +3,10 @@ A Filipino Home-Cooked Cuisine Website
 
 
 # Project Members
-• Greyzel P. Garrido
-• Jenalyn C. Pantinople
-• Jay-r Pelonio
-• Rutchie Amancio
+• **Greyzel P. Garrido**  
+• **Jenalyn C. Pantinople** 
+• **Jay-r Pelonio**
+• **Rutchie Amancio**
 
 
 # Preoject Overview
@@ -24,17 +24,19 @@ Introduces visitors to Kusina sa Bahay with a warm greeting and the restaurant�
 “Authentic Filipino home-cooked dishes — where every bite feels like home.”
 
 # Menu Page
-Displays a selection of classic Filipino dishes such as:
-• Chicken Adobo
-• Sinigang na Baboy
-• Kare-Kare
-• Lechon Kawali
-• Pancit Canton
-• Lumpiang Shanghai
-• Tinolang Manok
-• Pork Sisig
-• Halo-Halo
-• Bibingka
+Displays a collection of beloved Filipino dishes with images and short descriptions.  
+
+**Featured Dishes:**  
+• **Chicken Adobo** — Soy-vinegar stewed chicken.  
+• **Sinigang na Baboy** — Pork in tangy tamarind broth.  
+• **Kare-Kare** — Oxtail in peanut sauce with bagoong.  
+• **Lechon Kawali** — Crispy pork belly with liver sauce.  
+• **Pancit Canton** — Stir-fried noodles with meat and vegetables.  
+• **Lumpiang Shanghai** — Golden-fried pork spring rolls.  
+• **Tinolang Manok** — Chicken soup with green papaya and ginger.  
+• **Pork Sisig** — Sizzling pork face seasoned with calamansi.  
+• **Halo-Halo** — Layered shaved ice dessert.  
+• **Bibingka** — Rice cake baked in banana leaves.  
 
 # About Page
 Shares the story behind Kusina sa Bahay — a small family kitchen built on tradition, love, and the joy of Filipino cooking.
@@ -44,14 +46,14 @@ A vibrant photo gallery showcasing the restaurant’s dishes and dining ambiance
 
 # Contact Page
 Provides essential contact details for Kusina sa Bahay, including:
-📍 Address: 123 Poblacion, Argao, Cebu
-📞 Phone: (+63) 946-990-5762
-📧 Email: kusinasabahay@gmail.com
-🕗 Open Daily: 8:00 AM – 10:00 PM
+📍 *123 Poblacion, Argao, Cebu*  
+📞 *(+63) 946-990-5762*  
+📧 *kusinasabahay@gmail.com*  
+🕗 *Open Daily: 8:00 AM – 10:00 PM*  
 
 
 # Purpose of the Project
-The Kusina sa Bahay website was developed to:
+The **Kusina sa Bahay** website aims to:  
 • Showcase Filipino home-style cooking in a simple and elegant format.
 • Promote local food culture and culinary traditions.
 • Provide a user-friendly, static website for browsing dishes and restaurant information.
@@ -61,7 +63,7 @@ The Kusina sa Bahay website was developed to:
 • Warm and homey color palette inspired by Filipino wooden kitchens.
 • Responsive layout for desktop and mobile screens.
 • Simple and consistent navigation menu across all pages.
-• Eye-catching dish cards and gallery grids for visual appeal.
+• Visually appealing menu and gallery card designs.
 
 # Future Enhancements
 • Add online ordering and reservation features.  
