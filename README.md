@@ -5,7 +5,7 @@ A Filipino Home-Cooked Cuisine Website
 # Project Members
 • **Greyzel P. Garrido**  
 • **Jenalyn C. Pantinople** 
-• **Jay-r Pelonio**
+• **Jay-r Pelonio**  
 • **Rutchie Amancio**
 
 
