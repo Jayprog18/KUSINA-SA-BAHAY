@@ -9,7 +9,7 @@ A Filipino Home-Cooked Cuisine Website
 • **Rutchie Amancio**
 
 
-# Preoject Overview
+# Project Overview
 Kusina sa Bahay is a culinary-themed website that highlights the comfort and flavor of authentic Filipino home-cooked dishes. Designed with simplicity and warmth, the website allows users to explore different sections — from the login page to the home, menu, about, gallery, and contact pages — all centered around the cozy experience of dining “sa bahay” (at home).
 
 It aims to recreate the nostalgic feeling of Filipino family meals, emphasizing the cultural importance of food as a way to bring people together.
