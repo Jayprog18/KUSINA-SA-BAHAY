@@ -3,8 +3,8 @@ A Filipino Home-Cooked Cuisine Website
 
 
 # Project Members
-• **Greyzel P. Garrido**
-• **Jenalyn C. Pantinople** 
+• **Greyzel P. Garrido**   
+• **Jenalyn C. Pantinople**   
 • **Jay-r Pelonio**   
 • **Rutchie Amancio**
 
@@ -45,7 +45,7 @@ Shares the story behind Kusina sa Bahay — a small family kitchen built on trad
 A vibrant photo gallery showcasing the restaurant’s dishes and dining ambiance — capturing the essence of Filipino culinary culture.
 
 # Contact Page
-Provides essential contact details for Kusina sa Bahay, including:
+Provides essential contact details for Kusina sa Bahay, including:  
 📍 *123 Poblacion, Argao, Cebu*  
 📞 *(+63) 946-990-5762*  
 📧 *kusinasabahay@gmail.com*  
@@ -54,16 +54,16 @@ Provides essential contact details for Kusina sa Bahay, including:
 
 # Purpose of the Project
 The **Kusina sa Bahay** website aims to:  
-• Showcase Filipino home-style cooking in a simple and elegant format.
-• Promote local food culture and culinary traditions.
-• Provide a user-friendly, static website for browsing dishes and restaurant information.
-• Serve as a beginner-friendly web development project using HTML and CSS.
+• Showcase Filipino home-style cooking in a simple and elegant format.  
+• Promote local food culture and culinary traditions.  
+• Provide a user-friendly, static website for browsing dishes and restaurant information.  
+• Serve as a beginner-friendly web development project using HTML and CSS.  
 
 # Design Features
-• Warm and homey color palette inspired by Filipino wooden kitchens.
-• Responsive layout for desktop and mobile screens.
-• Simple and consistent navigation menu across all pages.
-• Visually appealing menu and gallery card designs.
+• Warm and homey color palette inspired by Filipino wooden kitchens.  
+• Responsive layout for desktop and mobile screens.  
+• Simple and consistent navigation menu across all pages.  
+• Visually appealing menu and gallery card designs.  
 
 # Future Enhancements
 • Add online ordering and reservation features.  
